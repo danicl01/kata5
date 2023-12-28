@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4a7b1c0-5608-430f-a826-daaf59506c67" name="Changes" comment="Command interface done">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/softwate/ulpgc/kata5/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/softwate/ulpgc/kata5/Command.java" afterDir="false" />
+    <list default="true" id="a4a7b1c0-5608-430f-a826-daaf59506c67" name="Changes" comment="FactorialCommand done">
+      <change beforePath="$PROJECT_DIR$/src/main/java/softwate/ulpgc/kata5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/softwate/ulpgc/kata5/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +16,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Record" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -74,11 +73,28 @@
       <option name="project" value="LOCAL" />
       <updated>1703785367128</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Command interface done">
+      <option name="closed" value="true" />
+      <created>1703786889132</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703786889132</updated>
+    </task>
+    <task id="LOCAL-00004" summary="FactorialCommand done">
+      <option name="closed" value="true" />
+      <created>1703787138267</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703787138267</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Command interface done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Command interface done" />
+    <MESSAGE value="FactorialCommand done" />
+    <option name="LAST_COMMIT_MESSAGE" value="FactorialCommand done" />
   </component>
 </project>
